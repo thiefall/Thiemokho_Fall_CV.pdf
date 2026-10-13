@@ -20,7 +20,7 @@
 
 PhD candidate in **Applied Mathematics** (Mathematical Modeling & Scientific Computing) at UCAD, with an interdisciplinary background spanning **AI, Machine Learning, Deep Learning** and data-driven scientific modeling.
 
-My work sits at the intersection of mathematics and data: I use symbolic regression, explainable ML, deep learning and spatial modeling to turn messy, heterogeneous real-world data — satellite imagery, geochemical surveys, climate records — into interpretable, physically meaningful models.
+My work sits at the intersection of mathematics and data: I use symbolic regression, explainable ML, deep learning and spatial modeling to turn messy, heterogeneous real-world data satellite imagery, geochemical surveys, climate records  into interpretable, physically meaningful models.
 
 - 🔬 Currently researching **symbolic regression & explainable machine learning** at AIMS Senegal
 - 🧭 Coordinating **MINERALS-AI Senegal**, an interdisciplinary AI + mathematical modeling project
